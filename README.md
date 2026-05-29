@@ -9,11 +9,16 @@ For instance, my board was : [My motherboard](https://fr.aliexpress.com/item/100
 
 **Bios configuration**
 aspm: L1 (it forces pcie 4.0 on my board, and randomly negotiate between x4 or x8 (x8 most of the time), other settings negotiate below...)
+
 iGPU: disabled
+
 PCIe Gen: Auto
+
 CSM: Disabled
 
 **Flashing**
 Run
+
 1 - flash.bat
+
 2 - reboot.bat
