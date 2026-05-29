@@ -17,7 +17,8 @@ PCIe Gen: Auto
 CSM: Disabled
 
 **Flashing**
-Run
+
+Run in order:
 
 1 - flash.bat
 
