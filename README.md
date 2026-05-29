@@ -3,7 +3,7 @@
 ## Description
 Bios for 10729 ITx boards (and noname clones) that disables one hdmi motherboard hdmi port, but activates pcie 4.0 x8 for dGPUs.
 
-For instance, my board was : [My motherboard](https://fr.aliexpress.com/item/1005011741053130.html) (I took the qy0z)
+For instance, my [motherboard](https://fr.aliexpress.com/item/1005011741053130.html) with a qy0z.
 
 ![](https://ae-pic-a1.aliexpress-media.com/kf/S4d01e34a12124d979a2d942ee1261b13W.jpg_960x960q75.jpg_.avif)
 
