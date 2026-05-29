@@ -1,4 +1,4 @@
-# Credits : [Repository where I got the bios](https://github.com/vpnblocking/12900HK-ITx-board/tree/0a71c3d202475d29f9a2f882499b59e0031ca032)
+# Credits : [here](https://github.com/vpnblocking/12900HK-ITx-board/tree/0a71c3d202475d29f9a2f882499b59e0031ca032)
 
 ## Description
 Bios for 10729 ITx boards (and noname clones) that disables one hdmi motherboard hdmi port, but activates pcie 4.0 x8 for dGPUs.
